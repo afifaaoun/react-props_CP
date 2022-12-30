@@ -1,0 +1,8 @@
+h1{
+    display: flex;
+    justify-content: center ;
+}
+.App{
+    background-color: rgb(237, 248, 248);
+    height: 1000px;
+}
